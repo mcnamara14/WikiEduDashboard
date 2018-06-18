@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-
+import $ from 'jquery';
 import React from 'react';
 import createReactClass from 'create-react-class';
 import ReactDOM from 'react-dom';
