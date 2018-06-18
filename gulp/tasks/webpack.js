@@ -19,7 +19,6 @@ gulp.task('webpack', (cb) => {
     survey: [`${jsSource}/surveys/survey.js`],
     survey_admin: [`${jsSource}/surveys/survey-admin.js`],
     survey_results: [`${jsSource}/surveys/survey-results.jsx`],
-    campaigns: [`${jsSource}/campaigns.js`],
     charts: [`${jsSource}/charts.js`]
   };
 

@@ -1,3 +1,4 @@
+const { List } = window;
 $(() => {
   $('.campaign-delete').on('submit', e => {
     const title = prompt(I18n.t('campaign.confirm_campaign_deletion', { title: e.target.dataset.title }));
