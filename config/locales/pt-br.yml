@@ -18,6 +18,7 @@
 # Author: Luk3
 # Author: Macofe
 # Author: Maxan
+# Author: Pedrofariasm
 # Author: Peter Fernando
 # Author: Raphaelras
 # Author: Rukasuoribera
@@ -573,6 +574,11 @@ pt-br:
     warn_mirrored: A partir da submissão, este curso será enviado automaticamente
       à Wikipédia com sua conta de usuário. Depois disso, novas edições no cronograma
       serão refletidas na Wikipédia. Você tem certeza de que deseja prosseguir?
+    wiki_edits_enabled: Edições do Wiki ativadas
+    wiki_edits_enabled_tooltip: Se as edições do wiki estiverem ativadas, as edições
+      automatizadas on-wiki serão feitas para este programa. Desative as edições do
+      wiki se você não quiser que os modelos sejam adicionados às páginas do usuário,
+      às páginas de discussão dos artigos atribuídos, etc.
     wiki_staff: Equipe Wiki Ed
     withdrawn: Não fez atribuição
     word_count_doc: Uma estimativa do número de palavras adicionadas ao espaço principal
@@ -948,6 +954,7 @@ pt-br:
     revisions_doc: O número de edições feitas por este usuário nos últimos 7 dias
     reviewers: Revisor(es)
     reviewing: Revisando
+    total_uploads: Total de envios
     training_complete:
       one: está em dia com o treinamento
       other: estão em dia com o treinamento
@@ -963,6 +970,7 @@ pt-br:
     training_module_name: Módulo de treinamento
     training_module_status: Status
     up_to_date_with_training: em dia com o treinamento
+    uploads_doc: Número de pastas enviadas para Wikimedia Commons
     username: Nome de usuário
     username_placeholder: Nome de usuário
     useremail_placeholder: E-mail
@@ -1106,7 +1114,7 @@ pt-br:
     completeness_estimate: Pontuação de integridade
     average_views: Média de visualizações por dia
     add_available_article: Adicionar como artigo disponível
-    already_added: Já adicionado aos artigos disponíveis
+    remove_article: Remover artigo
     minimum_views_label: Visualizações mínimas
     no_article_found: Nenhum artigo encontrado nesta categoria
     search_placeholder: Digite sua palavra-chave
